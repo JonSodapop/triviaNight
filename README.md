@@ -9,3 +9,8 @@ An attempt to create a live updating visual scoreboard for trivia nights.
 
 * use python with tkinter
 
+## Future Work
+
+* implement team name entry
+* implement score updating
+* make it look pretty
